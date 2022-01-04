@@ -18,15 +18,15 @@ app.get("/", function(req, res){
         },
         {
             title: 'A',
-            message: ' Isso é muito grande'
+            message: ' Começando 2022 da melhor forma'
         },
         {
             title: 'I',
-            message: ' Cansei'
+            message: ' npm i ejs'
         },
         {
             title: 'S',
-            message: ' AAAAAAAAAAAAAAAAAA'
+            message: ' Ctrs  + S for save'
         },
     ]
     res.render("pages/index",{
